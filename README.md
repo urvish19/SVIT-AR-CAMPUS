@@ -12,9 +12,3 @@ Using GPS coordinates user can navigate our college premise in this we added AR 
 We have also provided basic information about our college and department while exploring our college premise. This informations can be use by students and parents during admission time.
 
 Our application SVIT AR CAMPUS will be revolutionary and unique for making visitors and students experience in exploring college premises. Application will make User Experience better, for Easy Navigation, Efficient information retrieval.
-
-
-
-
-
-
