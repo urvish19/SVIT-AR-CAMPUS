@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="placement" size="0.810000 0.622408" />
+    <ImageTarget name="enterence_board" size="1.520000 0.731527" />
+    <ImageTarget name="elect_board" size="0.395000 0.241172" />
+    <ImageTarget name="remove_shoes" size="0.215000 0.303770" />
+    <ImageTarget name="fire-safety-sign-board-500x500" size="0.136000 0.136000" />
+  </Tracking>
+</QCARConfig>

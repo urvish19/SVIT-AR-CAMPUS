@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="8.6.7">
+<ModelTarget name="coffee cup" targetId="70ae54a530474db7b6cb18aa3cc38b3a" version="11.1" toolVersion="8.6.7" bbox="-4.719985 -0.039181 -10.472168 4.712243 8.547440 3.193720" previewImage="70ae54a530474db7b6cb18aa3cc38b3a_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="coffee cups_assembly" assemblyId="059d60af718940b2aaec512bee61bd96">
+<Part name="coffee cup" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="3.62103 4.17844 14.825" rotation="AD: 0.9987537038822217 -0.06739548042952206 1.1052050611078483 184.678" image="coffee cup_viewpoint_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
